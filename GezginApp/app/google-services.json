@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200525424508",
+    "firebase_url": "https://gezginapp-3caf1.firebaseio.com",
+    "project_id": "gezginapp-3caf1",
+    "storage_bucket": "gezginapp-3caf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200525424508:android:0841bc01b6380932",
+        "android_client_info": {
+          "package_name": "com.deneme.gezginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200525424508-ebicq1v2c2evr7tjnfjuk8a1gfdaasek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc9jt0pXZXHeic1rJkhtB7dfwBVCxdhX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200525424508-ebicq1v2c2evr7tjnfjuk8a1gfdaasek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
